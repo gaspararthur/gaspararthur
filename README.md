@@ -14,7 +14,7 @@
 
 - 🎓 Estudante do **Técnico em Química Integrado ao Ensino Médio — IFMA Campus Imperatriz**
 - 🔬 Desenvolvo projetos de pesquisa nas áreas de **fitoquímica, microbiologia e ecotoxicologia**
-- 🌐 Também desenvolvo sites, painéis administrativos e automações
+- - 🌐 Também desenvolvo sites, painéis administrativos e automações
 - 📚 Atualmente aprofundando meus conhecimentos em **Java, bancos de dados e arquitetura de software**
 - 🚀 Gosto de transformar ideias ambiciosas em projetos reais — às vezes com alguns bugs no caminho, para manter a humildade
 
@@ -24,8 +24,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaspararthur&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Gaspar Arthur" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspararthur&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Gaspar Arthur" />
+<img height="180em" src="./profile/stats.svg" alt="Estatísticas do GitHub de Gaspar Arthur" />
+<img height="180em" src="./profile/top-langs.svg" alt="Linguagens mais utilizadas por Gaspar Arthur" />
 
 </div>
 
@@ -56,7 +56,7 @@
 
 ### 🎮 Skylix Network
 
-Rede de Minecraft em estágios iniciais com arquitetura modular, sistema de login, lobby, SkyWars, cosméticos, clãs, caixas misteriosas e integração com bancos de dados.
+Rede de Minecraft com arquitetura modular em estágio inicial, sistema de login, lobby, SkyWars, cosméticos, clãs, caixas misteriosas e integração com bancos de dados.
 
 **Tecnologias:** Java, Maven, Spigot, ProtocolLib, PlaceholderAPI, MySQL e SQLite.
 
