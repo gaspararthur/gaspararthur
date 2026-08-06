@@ -1,96 +1,103 @@
 <div align="center">
 
-Olá, eu sou Arthur Gaspar 👋
+# Olá, eu sou Arthur Gaspar 👋
 
-Estudante, pesquisador e desenvolvedor em formação
+### Estudante, pesquisador e desenvolvedor em formação
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+em+Qu%C3%ADmica+no+IFMA;Desenvolvedor+da+Skylix+Network;Criando+plugins%2C+sites+e+automa%C3%A7%C3%B5es;Transformando+ideias+em+projetos" alt="Typing SVG" />
 
 </div>
 
-👨‍💻 Sobre mim
+---
 
-🎓 Estudante do Técnico em Química Integrado ao Ensino Médio — IFMA Campus Imperatriz
+## 👨‍💻 Sobre mim
 
-🔬 Desenvolvo projetos de pesquisa nas áreas de fitoquímica, microbiologia e ecotoxicologia
+- 🎓 Estudante do **Técnico em Química Integrado ao Ensino Médio — IFMA Campus Imperatriz**
+- 🔬 Desenvolvo projetos de pesquisa nas áreas de **fitoquímica, microbiologia e ecotoxicologia**
+- 🌐 Também desenvolvo sites, painéis administrativos e automações
+- 📚 Atualmente aprofundando meus conhecimentos em **Java, bancos de dados e arquitetura de software**
+- 🚀 Gosto de transformar ideias ambiciosas em projetos reais — às vezes com alguns bugs no caminho, para manter a humildade
 
-🎮 Criador da Skylix Network, uma rede de servidores e plugins para Minecraft
-
-🌐 Também desenvolvo sites, painéis administrativos e automações
-
-📚 Atualmente aprofundando meus conhecimentos em Java, bancos de dados e arquitetura de software
-
-🚀 Gosto de transformar ideias ambiciosas em projetos reais — às vezes com alguns bugs no caminho, para manter a humildade
+---
 
 <div align="center">
 
-📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaspararthur&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Gaspar Arthur" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaspararthur&layout=compact&langs_count=8&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Gaspar Arthur" />
 
 </div>
 
+---
+
 <div align="center">
 
-🧰 Tecnologias e ferramentas
+## 🧰 Tecnologias e ferramentas
 
-<img src="https://skillicons.dev/icons?i=java,maven,js,ts,python,html,css,nodejs,react,mysql,postgres,supabase,git,github,idea,vscode&perline=8" alt="Tecnologias utilizadas" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css&perline=4" alt="Linguagens que uso nos meus projetos" />
 
 <br><br>
 
-
+![Minecraft](https://img.shields.io/badge/Minecraft_Plugins-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Spigot](https://img.shields.io/badge/Spigot-ED8106?style=for-the-badge&logo=spigotmc&logoColor=white)
+![ProtocolLib](https://img.shields.io/badge/ProtocolLib-2F81F7?style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
-🚧 Projetos em destaque
+---
+
+## 🚧 Projetos em destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🎮 Skylix Network
+### 🎮 Skylix Network
 
-Rede de Minecraft com arquitetura modular, sistema de login, lobby, SkyWars, cosméticos, clãs, caixas misteriosas e integração com bancos de dados.
+Rede de Minecraft em estágios iniciais com arquitetura modular, sistema de login, lobby, SkyWars, cosméticos, clãs, caixas misteriosas e integração com bancos de dados.
 
-Tecnologias: Java, Maven, Spigot, ProtocolLib, PlaceholderAPI, MySQL e SQLite.
+**Tecnologias:** Java, Maven, Spigot, ProtocolLib, PlaceholderAPI, MySQL e SQLite.
 
 </td>
 <td width="50%" valign="top">
 
-🔬 Pesquisa científica
+### 🔬 Pesquisa científica
 
 Projetos envolvendo plantas do IFMA, extração de compostos, caracterização fitoquímica, atividade antimicrobiana e ensaios ecotoxicológicos.
 
-Áreas: Química, microbiologia, botânica e análise de dados.
+**Áreas:** Química, microbiologia, botânica e análise de dados.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-🌐 Mais Digital
+### 🌐 Mais Digital
 
 Site institucional e painel administrativo para gerenciamento de clientes, pagamentos, leads, tarefas e relatórios.
 
-Tecnologias: HTML, CSS, JavaScript, Supabase e Mercado Pago.
+**Tecnologias:** HTML, CSS, JavaScript, Supabase e Mercado Pago.
 
 </td>
 <td width="50%" valign="top">
 
-🤖 Automações e inteligência artificial
+### 🤖 Automações e inteligência artificial
 
 Experimentos com agentes, integração entre modelos de IA, ferramentas de desenvolvimento e controle remoto de ambientes de programação.
 
-Foco: produtividade, desenvolvimento assistido e automação de fluxos.
+**Foco:** produtividade, desenvolvimento assistido e automação de fluxos.
 
 </td>
 </tr>
 </table>
 
+---
+
 <div align="center">
 
-🐍 Snake das contribuições
+## 🐍 Snake das contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaspararthur/gaspararthur/output/github-contribution-grid-snake-dark.svg">
@@ -100,9 +107,11 @@ Foco: produtividade, desenvolvimento assistido e automação de fluxos.
 
 </div>
 
+---
+
 <div align="center">
 
-🌐 Onde me encontrar
+## 🌐 Onde me encontrar
 
 <a href="https://gaspararthur.github.io/">
   <img src="https://img.shields.io/badge/Portfólio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
@@ -121,6 +130,6 @@ Foco: produtividade, desenvolvimento assistido e automação de fluxos.
 
 <img src="https://komarev.com/ghpvc/?username=gaspararthur&style=for-the-badge&color=2f81f7&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
 
-“Construindo hoje o que ainda parece ideia de amanhã.”
+### “Construindo hoje o que ainda parece ideia de amanhã.”
 
 </div>
