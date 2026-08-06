@@ -1,6 +1,6 @@
 <div align="center">
 
-Olá, eu sou Gaspar Arthur 👋
+Olá, eu sou Arthur Gaspar 👋
 
 Estudante, pesquisador e desenvolvedor em formação
 
