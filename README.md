@@ -14,7 +14,7 @@
 
 - 🎓 Estudante do **Técnico em Química Integrado ao Ensino Médio — IFMA Campus Imperatriz**
 - 🔬 Desenvolvo projetos de pesquisa nas áreas de **fitoquímica, microbiologia e ecotoxicologia**
-- - 🌐 Também desenvolvo sites, painéis administrativos e automações
+- 🌐 Também desenvolvo sites, painéis administrativos e automações
 - 📚 Atualmente aprofundando meus conhecimentos em **Java, bancos de dados e arquitetura de software**
 - 🚀 Gosto de transformar ideias ambiciosas em projetos reais — às vezes com alguns bugs no caminho, para manter a humildade
 
