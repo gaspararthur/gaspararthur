@@ -2,7 +2,7 @@
 
 # Olá, eu sou Arthur Gaspar 👋
 
-### Estudante, pesquisador e desenvolvedor em formação
+### Estudante, pesquisador e um entusiasta na área da programação
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=T%C3%A9cnico+em+Qu%C3%ADmica+no+IFMA;Desenvolvedor+da+Skylix+Network;Criando+plugins%2C+sites+e+automa%C3%A7%C3%B5es;Transformando+ideias+em+projetos" alt="Typing SVG" />
 
